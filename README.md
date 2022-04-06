@@ -1,20 +1,24 @@
 <!-- Estatísticas e linguagens de programação -->
 <div>
-  <img height="18rem" src="https://github-readme-stats.vercel.app/api?username=dieggo-torres&theme=dark&show_icons=true&theme=dark&include_all_commits=true" alt="">
-  <img height="18rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieggo-torres&theme=dark&layout=compact&language_count=10" alt="">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=dieggo-torres&theme=dark&show_icons=true&include_all_commits=true" alt="">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieggo-torres&theme=dark&layout=compact&language_count=10" alt="">
 </div>
 <!-- Fim Estatísticas e linguagens de programação -->
 
+<br>
+
 <!-- Ícones de linguagens de programação -->
 <div style="display: inline-block">
-  <img align="center" alt="python-icone" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="python-icone" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="html5-icone" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="css3-icone" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="javascript-icone" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="bootstrap-icone" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="python-icone" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="python-icone" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="html5-icone" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="css3-icone" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript-icone" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="bootstrap-icone" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
 <!-- Fim Ícones de linguagens de programação -->
+
+<br>
 
 <!-- Contato -->
 <div>
